@@ -11,10 +11,10 @@ var score=0;
 var gameState=1
 
 function preload(){
-  gunImg = loadImage("spaceProtector.png")
+  gunImg = loadImage("SpaceProtector.png")
   blastImg = loadImage("boom3.jpg")
   bulletImg = loadImage("bullet1.png")
-  blueBubbleImg = loadImage("Spacefighter2.jpg")
+  blueBubbleImg = loadImage("spacefighter2.jpg")
   redBubbleImg = loadImage("sprite_0.png")
   backBoardImg= loadImage("back.jpg")
   
